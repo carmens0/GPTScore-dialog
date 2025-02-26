@@ -10,10 +10,10 @@ annotations = []
 evaluations = []
 results = []
 
-file_path= r"C:\Users\carme\Desktop\dialogue-reponse\datasets\dstc9_data 2.json"
+file_path= r"\datasets\dstc9_data 2.json"
 model_name="davinci-002"
-api_key="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"
-results_file = r"C:\Users\carme\Desktop\dialogue-reponse\datasets\results.json"
+api_key=""
+results_file = r"\datasets\results.json"
 
 
 

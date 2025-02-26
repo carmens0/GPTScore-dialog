@@ -5,9 +5,9 @@ import scipy
 import tabulate
 import os
 
-file_path=r"C:\Users\carme\Desktop\dialogue-reponse\datasets\fed_data 1.json"
-api_key="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"
-results_file = r"C:\Users\carme\Desktop\dialogue-reponse\results\results_fed_DIALOGUE.json"
+file_path=r"\datasets\fed_data 1.json"
+api_key=""
+results_file = r"\results\results_fed_DIALOGUE.json"
 
 with open(file_path, "r") as file:
         fed_data = json.load(file)

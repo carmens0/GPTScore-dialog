@@ -2,9 +2,9 @@ import tqdm
 import json 
 from  scripts import gpt3score
 import os
-file_path=r"C:\Users\carme\Desktop\dialogue-reponse\datasets\pc_usr_data 2.json"
-api_key="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"
-results_file = r"C:\Users\carme\Desktop\dialogue-reponse\results\results_ex_senza_nulla_pcusr.json"
+file_path=r"\datasets\pc_usr_data 2.json"
+api_key=""
+results_file = r"\results\results_ex_senza_nulla_pcusr.json"
 
 with open(file_path, "r") as file:
     pcusr = json.load(file)

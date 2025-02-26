@@ -1,0 +1,4 @@
+Metric,Value,P-Value
+Spearman Correlation,-0.105746513322022,0.0464835761391
+Pearson Correlation,-0.101677808297,0.055624869
+Kendall-Tau,-0.0721298745299,0.05084603357

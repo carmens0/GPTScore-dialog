@@ -3,9 +3,9 @@ import json
 from  scripts import gpt3score
 import os
 import scipy
-file_path=r"C:\Users\carme\Desktop\dialogue-reponse\datasets\tc_usr_data 1.json"
-api_key="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"
-results_file = r"C:\Users\carme\Desktop\dialogue-reponse\results\results_tcusr.json"
+file_path=r"\datasets\tc_usr_data 1.json"
+api_key=""
+results_file = r"\results\results_tcusr.json"
 
 with open(file_path, "r") as file:
     tcusr = json.load(file)

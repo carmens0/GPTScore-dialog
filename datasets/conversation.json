@@ -1,0 +1,576 @@
+[
+    {
+        "dialog_id": "0xeb8ee8f9",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hu"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "hi u"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "hi what do you do "
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "hi u hi"
+            }
+        ],
+        "eval_score": 2
+    },
+    {
+        "dialog_id": "0x21d06cdf",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "hi matt"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "wha's your name"
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "Hi matt i'm you"
+            },
+            {
+                "id": 4,
+                "sender": "participant1",
+                "text": "i'm carmen"
+            },
+            {
+                "id": 5,
+                "sender": "participant2",
+                "text": "Hi matt i'm you, your mother"
+            },
+            {
+                "id": 6,
+                "sender": "participant1",
+                "text": "ok"
+            },
+            {
+                "id": 7,
+                "sender": "participant2",
+                "text": "Hi dad"
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0xb986f1e0",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "Hi "
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "Hi there!"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "What's your name?"
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "Hi there"
+            },
+            {
+                "id": 4,
+                "sender": "participant1",
+                "text": "ok"
+            },
+            {
+                "id": 5,
+                "sender": "participant2",
+                "text": "Hi there!"
+            },
+            {
+                "id": 6,
+                "sender": "participant1",
+                "text": "ok"
+            },
+            {
+                "id": 7,
+                "sender": "participant2",
+                "text": "Hi there!"
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0x0a3bbc6c",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi, what's your name? "
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "You have a friend named Cinder, you're welcome."
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "okay. How old are you? "
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "Thank you."
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0xe70b2740",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi, what's your name? "
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "Hi, I'm u TheRealDee"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "how old are you? "
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "I am u TheRealDee"
+            },
+            {
+                "id": 4,
+                "sender": "participant1",
+                "text": "okay"
+            },
+            {
+                "id": 5,
+                "sender": "participant2",
+                "text": "Hey, are you me?"
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0x4625184b",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "ciao"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "Goodbye, my friend."
+            }
+        ],
+        "eval_score": 2
+    },
+    {
+        "dialog_id": "0x4a2369b0",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "ciao "
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "I'm here for you."
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "okay"
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "I'm here for you."
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0xb3df1233",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hello"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "hi hi"
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0x63f73f68",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "Hi there."
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "how are you"
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "I love you."
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0x57a56f49",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "Hi"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "how are you? "
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "hey ive got a free month too"
+            },
+            {
+                "id": 4,
+                "sender": "participant1",
+                "text": "oh what nice"
+            },
+            {
+                "id": 5,
+                "sender": "participant2",
+                "text": "I got a free month too"
+            }
+        ],
+        "eval_score": 2
+    },
+    {
+        "dialog_id": "0x4f454529",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "ciao"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "Inigo, may I ask why you are in this thread?"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "hello"
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "I know that feel."
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0x24acf839",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "Hi"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "hello"
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "hi hi hello"
+            },
+            {
+                "id": 4,
+                "sender": "participant1",
+                "text": "how are you?"
+            },
+            {
+                "id": 5,
+                "sender": "participant2",
+                "text": "hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi hi"
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0xf78ad9ba",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi, how are you? "
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "hi im ryan"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "oh what a nice name"
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "Hello, I am ryan"
+            }
+        ],
+        "eval_score": 3
+    },
+    {
+        "dialog_id": "0x50d5a02e",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi, how are you?"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "hey its me ur brother"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "okay"
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "I don't know what you're talking about. I have a brother named Steve."
+            }
+        ],
+        "eval_score": 1
+    },
+    {
+        "dialog_id": "0x1b16ce99",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "I'll help you out, add me in game"
+            }
+        ],
+        "eval_score": 1,
+        "gpt_score_gpt-4o-mini_val": 3.8945908079102765,
+        "raw_gpt_score_gpt-4o-mini_val": 0.2838319214035361,
+        "eval_score_gpt-4o-mini_val": null,
+        "gpt_score_gpt-4o-mini_ist": 4.177957753172555,
+        "raw_gpt_score_gpt-4o-mini_ist": 0.19675695528592246,
+        "eval_score_gpt-4o-mini_ist": 1.0
+    },
+    {
+        "dialog_id": "0x01134589",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi, what's your name? "
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "hi everyone"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "how are you? "
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "Hello, can you tell me what the first comment was about?"
+            }
+        ],
+        "eval_score": 1,
+        "gpt_score_gpt-4o-mini_val": 3.883918021955148,
+        "raw_gpt_score_gpt-4o-mini_val": 0.2873598185481324,
+        "eval_score_gpt-4o-mini_val": 1.0,
+        "gpt_score_gpt-4o-mini_ist": 3.9299112275003556,
+        "raw_gpt_score_gpt-4o-mini_ist": 0.27229337014319305,
+        "eval_score_gpt-4o-mini_ist": 2.0
+    },
+    {
+        "dialog_id": "0xe1686e39",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "Hi everyone"
+            }
+        ],
+        "eval_score": 2
+    },
+    {
+        "dialog_id": "0x2d6c1df5",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi how are you? "
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "Hey, I'm in that same situation!"
+            }
+        ],
+        "eval_score": 1,
+        "gpt_score_gpt-4o-mini_val": 4.0725061328779395,
+        "raw_gpt_score_gpt-4o-mini_val": 0.22774523520892132,
+        "eval_score_gpt-4o-mini_val": null,
+        "gpt_score_gpt-4o-mini_ist": 3.8673710915709893,
+        "raw_gpt_score_gpt-4o-mini_ist": 0.2928679150799875,
+        "eval_score_gpt-4o-mini_ist": 1.0
+    },
+    {
+        "dialog_id": "0x0be7f846",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi "
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "I'll be there"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "who are you? "
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "Hey I'll be there, just let me know when"
+            }
+        ],
+        "eval_score": 0,
+        "gpt_score_gpt-4o-mini_val": 4.042427832009983,
+        "raw_gpt_score_gpt-4o-mini_val": 0.23688046089715642,
+        "eval_score_gpt-4o-mini_val": 1.0,
+        "gpt_score_gpt-4o-mini_ist": 4.2428101299947905,
+        "raw_gpt_score_gpt-4o-mini_ist": 0.17846423639186984,
+        "eval_score_gpt-4o-mini_ist": 1.0
+    },
+    {
+        "dialog_id": "0x61b1bf57",
+        "dialog": [
+            {
+                "id": 0,
+                "sender": "participant1",
+                "text": "hi"
+            },
+            {
+                "id": 1,
+                "sender": "participant2",
+                "text": "hi, im u"
+            },
+            {
+                "id": 2,
+                "sender": "participant1",
+                "text": "ok"
+            },
+            {
+                "id": 3,
+                "sender": "participant2",
+                "text": "hey im ok"
+            },
+            {
+                "id": 4,
+                "sender": "participant1",
+                "text": "are u ok?"
+            },
+            {
+                "id": 5,
+                "sender": "participant2",
+                "text": "hey im ok"
+            }
+        ],
+        "eval_score": 3
+    }
+]

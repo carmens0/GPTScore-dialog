@@ -29,7 +29,7 @@ if __name__ == "__main__":
                 if dialog["dialog_id"] != dialog_id:
                     continue
             # if dialog is None:
-            #     print(f"Errore: Nessun dialogo trovato con dialog_id={dialog_id}.")
+            #     print(f"Error: No dialog found with dialog_id={dialog_id}.")
             #     break
                 print(f"Processing Dialog {dialog}...")
 
@@ -59,10 +59,7 @@ if __name__ == "__main__":
             api_key=str(input("The api_key: "))
             model_name=str(input("The model name you would like to use (choose between: gpt-4o,gpt-3.5 and gpt-4o-mini) : " ))
             method=str(input("The kind of method (choose between dialogue-level or turn-level): "))
-            # file_path= r"C:\Users\carme\Desktop\dialogue-reponse\datasets\convai2_data.json"
-            # api_key="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"
-            # model_name="gpt-4o-mini"
-            # method="dialogue-level"
+           
             if model_name=="davinci-002": 
                 dialogs=process_dialogs(file_path)
                 scores = []

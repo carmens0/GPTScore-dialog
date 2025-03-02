@@ -70,7 +70,7 @@ Additional datasets utilized in this project include:
 1. Clone the repository:
 
 ```
-git clone [https://github.com/yourusername/GPTScore.git](https://github.com/carmens0/GPTScore-dialog)
+git clone https://github.com/carmens0/GPTScore-dialog
 cd GPTScore
 
 ```
